@@ -1,15 +1,14 @@
-#Text Data Preprocessing Lib
+# Bibliotecas de preprocesamiento de datos de texto
 
 
-# function for appending stem words
+# Función para añadir palabras raíz (steam words)
 
 
 
     
-        # Add all words of patterns to list
+        # Agregar todas las palabras de patrones a una lista
         
-        # Add all tags to the classes list
+        # Agregar todas las etiquetas a la lista de clases
          
 
-#Create word corpus for chatbot
-
+# Crear un corpus de palabras para el chatbot
